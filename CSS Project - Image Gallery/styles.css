@@ -78,7 +78,7 @@ body{
     transition: 0.3s;
     }
     
-    .card:hover figcaption {
+.card:hover figcaption{
     opacity: 1;
     transform: scale(1.03);
-    }
+}
